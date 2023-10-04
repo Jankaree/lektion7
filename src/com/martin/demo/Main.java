@@ -11,5 +11,9 @@ public class Main {
 
         Ship boat = new Ship();
         boat.transport();
+
+        Dog kalle = new Dog();
+        kalle.animalSound();
+        kalle.sleep();
     }
 }
